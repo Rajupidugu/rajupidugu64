@@ -4,6 +4,8 @@
 
 ### [Active Directory Home Lab](https://github.com/rajupidugu64/rajupidugu64/blob/main/VMware_Home_Lab_setup_Proof.pdf)
 - **Description:** Designed and deployed a virtualized network environment for security testing.
+- **Skills:* Windows Server Administration,Active Directory Management (GPOs,OUs),Network Configuration,Virtualization Security.
+- **Tools:**VMware Workstation/ESXi,Windows Server 2019/2022,Kali Linux.
 - **Evidence:** [📄 View VMware Lab PDF Proof](./VMware_Home_Lab_setup_Proof.pdf)
 
 ### Web Authentication Penetration Test
