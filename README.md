@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 cyber security Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/Rajupidugu/rajupidugu64/blob/main/VMware_Home_Lab_setup_Proof.pdf)
 
 
 <h2>📺 - Certifications</h2>
